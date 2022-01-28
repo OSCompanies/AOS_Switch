@@ -1,6 +1,7 @@
 # Switch 예제
 ## 설명 참고
-### <a href="https://spectacled-plastic-a9d.notion.site/Switch-dfdfb9802b0f422db60d562b65a5d01c">Notion : Switch</a>
+### [Switch.pdf](https://github.com/OSCompanies/AOS_Switch/files/7955017/Switch.pdf)
+
 
 ## 목차
 ### 1. Switch 기본 사용법
